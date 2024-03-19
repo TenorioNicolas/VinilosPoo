@@ -1,1 +1,1 @@
-First time using intelIJ and githun
+First time using intelIJ and github
